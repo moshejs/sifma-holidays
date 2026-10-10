@@ -1,6 +1,6 @@
 {
   "name": "sifma-holidays",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "US bond-market holidays, early closes, and settlement dates per SIFMA recommendations. The fixed-income calendar (Columbus Day, Veterans Day, 2pm early closes) — not the stock market's. Zero dependencies.",
   "keywords": [
     "sifma",
